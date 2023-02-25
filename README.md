@@ -1,4 +1,4 @@
-# Feature flags
+# Feature flags [idea]
 
 Use feature flags to help test new features in production with a subset of users. 
 
